@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Miles 👋
 
 <!--
 **Miles1530/Miles1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
